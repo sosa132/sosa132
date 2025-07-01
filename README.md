@@ -1,56 +1,51 @@
-<h1 align="center">🧠 Sosa на связи</h1>
-<p align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=24&duration=3000&pause=1000&color=F772D1&center=true&vCenter=true&multiline=true&width=500&lines=Пишу+ботов,+хакаю+время+🧠;" alt="Typing SVG" />
-</p>
 
-
-
----
-
-
-
-
-### 💻 Немного обо мне:
-
-- 🔧 Пилю сайты, ботов, хакаю время  
-- ☕ Код — это кофе моей души  
-- 🎭 Иногда дизайнер, иногда — разрушитель багов  
-- 🧠 Умею в Python, HTML, CSS, JS и немного магии  
-- 🎸 Вечером — лирик, утром — девопс
-
----
-
-### 🔥 Стата, как есть:
+<h1 align="center">⚡ Yo, Sosal? Da.</h1>
 
 <p align="center">
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sosa132&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosa132&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=440&lines=Пишу+ботов,+хакаю+время;Код+%3D+искусство;Sosa+всегда+на+связи" alt="Typing Animation" />
 </p>
 
 ---
 
-### 🛠️ Стек, с которым играюсь:
+### 🧠 Немного обо мне
+
+```bash
+🤖 Telegram-боты / CLI / интерфейсы
+🎧 Пишу под Lo-Fi, живу в темной теме
+⚙️ Python / JS / HTML / CSS / Git
+💬 Хакаю рутину с дерзостью
+```
+
+---
+
+### 💻 Мой стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,express,figma,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-### 📡 Где ещё я обитаю:
+### 🚀 Проекты
+
+| Название        | Суть                                             |
+|------------------|--------------------------------------------------|
+| `SSCleaner`      | Чистит и прикалывается                           |
+| `MoodBot`        | Врубает трек по твоему настроению                |
+| `JarvisOffline`  | Голосовой AI без облаков, но с харизмой          |
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/sosa132" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-sosa132-333?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://sosa132.github.io/misueta/" target="_blank">
-    <img src="https://img.shields.io/badge/Мой+сайт-Misueta-ff69b4?style=for-the-badge&logo=vercel" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sosa132&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sosa132&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
-> **Сначала код — потом всё остальное.**  
-> Меньше слов — больше коммитов.
+<p align="center">
+  <strong>🧠 Я не просто коммичу код — я оставляю вайб.</strong><br/>
+  <sub>© Sosa 2025</sub>
+</p>
