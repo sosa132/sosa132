@@ -1,7 +1,7 @@
 <h1 align="center">🧠 Sosa на связи</h1>
 <p align="center">
   <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=24&duration=3000&pause=1000&color=F772D1&center=true&vCenter=true&multiline=true&width=500&lines=Пишу+ботов,+хакаю+время+🧠;Пью+код+как+кофе+☕;Ищу+баги,+ловлю+кайф+😎" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=24&duration=3000&pause=1000&color=F772D1&center=true&vCenter=true&multiline=true&width=500&lines=Пишу+ботов,+хакаю+время+🧠;" alt="Typing SVG" />
 </p>
 
 
